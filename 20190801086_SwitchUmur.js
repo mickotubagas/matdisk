@@ -26,8 +26,4 @@ switch (true){
     case umur<=18:
         console.log("Anda Tingkat Sekolah Menengah Akhir");
         break;
-    
-    default:
-        console.log("Anda sudah lulus bersekolah!");
-        break
 }
